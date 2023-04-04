@@ -1,4 +1,4 @@
-Anomaly Detection on Sensory Data 
+# Anomaly Detection on Sensory Data 
 Problem Statement:
 XYZ Company is a manufacturer of household cleaning products, operating across four different countries with an annual revenue of USD 800 million. Their manufacturing plant relies on over 30 industrial pumps to produce their range of detergents, shampoos, and other cleaning supplies. Recently, one of their pumps has failed unexpectedly seven times in the last six months, causing significant production losses estimated at USD 500,000, in addition to environmental damage caused by spilled toxic chemicals amounting to USD 300,000. To avoid such problems in the future, XYZ Company is keen to identify anomalies in pump behavior and take corrective action before the pump fails. By implementing a system that can detect and flag unusual pump behavior, the company aims to prevent any hard failures and minimize production losses and environmental damage.
 Data: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
